@@ -5,7 +5,7 @@ A Telegram bot to download TikTok videos without any watermark.
 
 ## Host on Heroku
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/TerminalWarlord/TikTok-Downloader-Bot/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Xayzo/TikTok-Downloader-Bot/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 
 
