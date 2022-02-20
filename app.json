@@ -1,40 +1,40 @@
 {
   "name": "JayBee TikTok Downloader Bot",
   "description": "A Telegram bot to download TikTok videos without any watermark",
-  "logo" : "https://telegra.ph/file/05bae0725724007c72fa1.jpg",
-  "success_url" : "https://t.me/JayBeeBots",
+  "logo" : "https://telegra.ph/file/a86f2b322961d301ffb4d.jpg",
+  "success_url" : "https://t.me/DionProjects",
   "keywords": [
     "telegram",
     "bot",
     "tiktok",
     "jaybee"
   ],
-  "repository": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",
-  "website": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",
+  "repository": "https://github.com/Xayzo/TikTok-Downloader-Robot",
+  "website": "https://github.com/Xayzo/TikTok-Downloader-Robot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot Bot Token, get this value from @BotFather.",
       "value": ""
     },
     "API_KEY": {
-      "description": "Your APP API KEY, get this from https://my.telegram.org",
+      "description": "Your APP API KEY, get this from t.me/ScrapDionRobot",
       "value": ""
     },
     "API_HASH": {
-      "description": "Your APP HASH, get this from https://my.telegram.org",
+      "description": "Your APP HASH, get this from t.me/ScrapDionRobot",
      "value": ""
     },
     "CHANNEL_URL": {
       "description": "URL of your Telegram channel link.",
-      "value": ""
+      "value": "https://t.me/DionProjects"
     },
     "BOT_URL": {
-      "description": "Username of your Telegram Bot (without @). Example: JayBeeTikTokBot",
-      "value": ""
+      "description": "Username of your Telegram Bot (without @). Example: Tiktok_Downloaderr_Robot",
+      "value": "Tiktok_Downloaderr_Robot"
     },
     "WORKERS": {
-      "description": "Number of threads to use, this depends on usage.  4 is the recommended (and default) amount, but your experience may vary.",
-      "value": "4"
+      "description": "Number of threads to use, this depends on usage.  5 is the recommended (and default) amount, but your experience may vary.",
+      "value": "5"
     }
   }
 }
